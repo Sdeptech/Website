@@ -1,0 +1,8 @@
+
+Para Anotar los cambios realizados a la pagina y saber cual es la ultima version, 
+
+Pagina modificada:	   Notas:		Usuario		Fecha y hora
+
+About			formato para sdeptech	Engel		10/1018	9:45 PM
+
+
